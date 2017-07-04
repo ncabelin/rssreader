@@ -8,7 +8,7 @@ Testing is an important part of the development process and many organizations p
 
 The app is live at http://cabelin.com/rssreader
 
-![screenshot](http://cabelin.com/rssreader/images/screenshot.jpg)
+![screenshot](http://res.cloudinary.com/dd6kwd0zn/image/upload/v1499202553/screenshot-4_yfbixq.jpg)
 
 ## Tests done :
 
